@@ -9,11 +9,7 @@ import java.awt.event.*;
 public class JFrameExample{
 	
 	public static void main(String[] args){
-<<<<<<< HEAD
-		System.out.println( "alabala3333333");
-=======
-		System.out.println( "alex");
->>>>>>> edc53d1337837d625a7187c283b4185daf1a372a
+		System.out.println( "1");
 		JFrame frame= new JFrame();	
 		frame.setTitle("JFrame Registration Demo");
 		
