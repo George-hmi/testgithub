@@ -87,12 +87,8 @@ public class JFrameExample{
         frame.setLocationRelativeTo(null);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		frame.setVisible(true);
-<<<<<<< HEAD
-
-System.out.println( "alabala");
-
-=======
+		System.out.println( "alabala");
 		System.out.println("alex");
->>>>>>> master
+
 	}
 }
