@@ -9,7 +9,7 @@ import java.awt.event.*;
 public class JFrameExample{
 	
 	public static void main(String[] args){
-		// Create frame with title Registration Demo
+		System.out.println( "alabala");
 		JFrame frame= new JFrame();	
 		frame.setTitle("JFrame Registration Demo");
 		
