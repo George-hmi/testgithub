@@ -9,7 +9,7 @@ import java.awt.event.*;
 public class JFrameExample{
 	
 	public static void main(String[] args){
-		System.out.println("Test");
+		System.out.println( "alabala");
 		JFrame frame= new JFrame();	
 		frame.setTitle("JFrame Registration Demo");
 		
@@ -87,6 +87,10 @@ public class JFrameExample{
         frame.setLocationRelativeTo(null);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		frame.setVisible(true);
+<<<<<<< HEAD
 System.out.println( "alabala");
+=======
+	System.out.println( "gigi");
+>>>>>>> master
 	}
 }
